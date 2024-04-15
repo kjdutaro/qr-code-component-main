@@ -48,4 +48,3 @@ I will be trying to maybe replicate this with tailwindcss soon.
 ## Author
 
 - Email - [kjdutaro@gmail.com]
-- Frontend Mentor - [@kjdutaro](https://www.frontendmentor.io/profile/yourusername)
